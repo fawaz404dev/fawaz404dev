@@ -18,7 +18,7 @@ A fully decentralized Web. This is my dream. Free of censorship and everyone can
 <details>
   <summary>Languages and technologies</summary>
   <br>
-[![My Skills](https://skillicons.dev/icons?i=angular,electron,deno,react,vue,express,firebase,gcp,laravel,mysql,nodejs,nuxtjs,postgres,tailwind,ts,wordpress,webpack&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,electron,deno,react,vue,express,firebase,gcp,laravel,mysql,nodejs,nuxtjs,postgres,tailwind,ts,wordpress,webpack&perline=7)](https://skillicons.dev)]
 </details>
   
 <hr>
