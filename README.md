@@ -16,14 +16,9 @@ A fully decentralized Web. This is my dream. Free of censorship and everyone can
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://www.blog.fawaz.engineer/)(Cumulative 7.67 million PV / 4.31 million UV).
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>Languages and technologies</summary>
   <br>
-
-
-* 👑   Some GitHub statistical reports:
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=angular,electron,deno,react,vue,express,firebase,gcp,laravel,mysql,nodejs,nuxtjs,postgres,tailwind,ts,wordpress,webpack&perline=7)](https://skillicons.dev)
 </details>
   
 <hr>
