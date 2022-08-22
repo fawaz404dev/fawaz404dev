@@ -15,11 +15,11 @@ A fully decentralized Web. This is my dream. Free of censorship and everyone can
 * ⛵   My Target Is Encouraging people for open source collaborations.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://www.blog.fawaz.engineer/)(Cumulative 7.67 million PV / 4.31 million UV).
 
+### Language :
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dart,js,go,php,py&perline=15)](https://skillicons.dev)
+
 ### * Technologies :
 [![My Skills](https://skillicons.dev/icons?i=angular,electron,deno,react,vue,express,firebase,gcp,laravel,mysql,nodejs,nuxtjs,postgres,tailwind,ts,wordpress,webpack&perline=10)](https://skillicons.dev)
-
-### * Language :
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dart,js,go,php,py&perline=15)](https://skillicons.dev)
 
   
 <hr>
