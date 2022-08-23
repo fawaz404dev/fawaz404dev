@@ -1,4 +1,4 @@
-# ⚡️Hello there, I'm Fawaz Jomah** 👋
+# ⚡️Hello there, I'm Fawaz Jomah 👋
 
 <p align="center"><img src="https://github.com/fawaz404dev/fawaz404dev/blob/main/icons/header-banner.gif" /></p>
 <hr>
@@ -24,11 +24,11 @@ A fully decentralized Web. This is my dream. Free of censorship and everyone can
 <h2>⚡️ Programming Languages :</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dart,js,go,php,py&perline=15)](https://skillicons.dev)
+<hr>
 
-### * Technologies :
-[![My Skills](https://skillicons.dev/icons?i=angular,electron,deno,react,vue,express,firebase,gcp,laravel,mysql,nodejs,nuxtjs,postgres,tailwind,ts,wordpress,webpack&perline=10)](https://skillicons.dev)
+<h2>⚡️ Front-End Technologies :</h2>
 
-  
+[![My Skills](https://skillicons.dev/icons?i=angular,deno,react,vue,bootstrap,css,ember,gatsby,html,jquery,materialui,nestjs,netlify,sass,tailwind,ts,nuxtjs&perline=10)](https://skillicons.dev)
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
